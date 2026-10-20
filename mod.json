@@ -1,8 +1,0 @@
-{
-  "id": "reset",
-  "name": "Reset",
-  "version": "1.0.0",
-  "author": "Novinity",
-  "description": "Allows you to reset the game with the click of a button (U/D-Pad Down).",
-  "entry_script": "main.gd"
-}
